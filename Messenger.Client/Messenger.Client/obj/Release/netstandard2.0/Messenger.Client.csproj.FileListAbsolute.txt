@@ -1,0 +1,15 @@
+D:\4 КУРС\1_6\Messenger\Messenger.Client\Messenger.Client\bin\Release\netstandard2.0\Messenger.Client.deps.json
+D:\4 КУРС\1_6\Messenger\Messenger.Client\Messenger.Client\bin\Release\netstandard2.0\Messenger.Client.dll
+D:\4 КУРС\1_6\Messenger\Messenger.Client\Messenger.Client\bin\Release\netstandard2.0\Messenger.Client.pdb
+D:\4 КУРС\1_6\Messenger\Messenger.Client\Messenger.Client\bin\Release\netstandard2.0\Messenger.Common.dll
+D:\4 КУРС\1_6\Messenger\Messenger.Client\Messenger.Client\bin\Release\netstandard2.0\Messenger.Common.pdb
+D:\4 КУРС\1_6\Messenger\Messenger.Client\Messenger.Client\obj\Release\netstandard2.0\Messenger.Client.csprojAssemblyReference.cache
+D:\4 КУРС\1_6\Messenger\Messenger.Client\Messenger.Client\obj\Release\netstandard2.0\App.xaml.g.cs
+D:\4 КУРС\1_6\Messenger\Messenger.Client\Messenger.Client\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+D:\4 КУРС\1_6\Messenger\Messenger.Client\Messenger.Client\obj\Release\netstandard2.0\Messenger.Client.csproj.CoreCompileInputs.cache
+D:\4 КУРС\1_6\Messenger\Messenger.Client\Messenger.Client\obj\Release\netstandard2.0\Messenger.Client.AssemblyInfoInputs.cache
+D:\4 КУРС\1_6\Messenger\Messenger.Client\Messenger.Client\obj\Release\netstandard2.0\Messenger.Client.AssemblyInfo.cs
+D:\4 КУРС\1_6\Messenger\Messenger.Client\Messenger.Client\obj\Release\netstandard2.0\XamlC.stamp
+D:\4 КУРС\1_6\Messenger\Messenger.Client\Messenger.Client\obj\Release\netstandard2.0\Messenger.Client.csproj.CopyComplete
+D:\4 КУРС\1_6\Messenger\Messenger.Client\Messenger.Client\obj\Release\netstandard2.0\Messenger.Client.dll
+D:\4 КУРС\1_6\Messenger\Messenger.Client\Messenger.Client\obj\Release\netstandard2.0\Messenger.Client.pdb

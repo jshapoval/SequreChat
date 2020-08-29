@@ -1,0 +1,22 @@
+﻿<UserControl x:Class="MessengerWinClient.Controls.DialogPanel"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:m="clr-namespace:MessengerWinClient.Controls"
+             mc:Ignorable="d"  x:Name="dp"
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid DataContext="{Binding ElementName=dp}">
+        <DockPanel Margin="1,1,1,1" Background="{Binding DialogBackgroundColor, Mode=OneWay}">
+            <DockPanel.Effect>
+                <DropShadowEffect BlurRadius="7"  Color="{Binding Path=DialogShadowColor, Mode=OneWay}" ShadowDepth="3"/>
+            </DockPanel.Effect>
+            
+            <Image x:Name="UserpicImage" DockPanel.Dock="Left" VerticalAlignment="Top" Width="90" Height="90" HorizontalAlignment="Stretch"/>
+            
+            <TextBlock x:Name="NameTextBox" DockPanel.Dock="Right" Margin="10,5" 
+                       VerticalAlignment="Top" FontWeight="SemiBold" Foreground="WhiteSmoke" 
+                       FontSize="16" Text="{Binding Interlocutor.FullName}" TextWrapping="Wrap"></TextBlock>
+        </DockPanel>
+    </Grid>
+</UserControl>

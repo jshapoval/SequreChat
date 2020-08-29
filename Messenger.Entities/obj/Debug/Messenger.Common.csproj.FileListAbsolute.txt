@@ -1,0 +1,9 @@
+C:\Users\Denis\source\repos\Messenger\Messenger.Entities\bin\Debug\Messenger.Common.dll
+C:\Users\Denis\source\repos\Messenger\Messenger.Entities\bin\Debug\Messenger.Common.pdb
+C:\Users\Denis\source\repos\Messenger\Messenger.Entities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Denis\source\repos\Messenger\Messenger.Entities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Denis\source\repos\Messenger\Messenger.Entities\obj\Debug\Messenger.Common.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\Messenger\Messenger.Entities\obj\Debug\Messenger.Common.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\Messenger\Messenger.Entities\obj\Debug\Messenger.Common.csproj.CopyComplete
+C:\Users\Denis\source\repos\Messenger\Messenger.Entities\obj\Debug\Messenger.Common.dll
+C:\Users\Denis\source\repos\Messenger\Messenger.Entities\obj\Debug\Messenger.Common.pdb

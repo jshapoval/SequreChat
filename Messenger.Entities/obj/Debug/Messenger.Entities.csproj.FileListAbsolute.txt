@@ -1,0 +1,8 @@
+C:\Users\Denis\source\repos\Messenger\Messenger.Entities\bin\Debug\Messenger.Entities.dll
+C:\Users\Denis\source\repos\Messenger\Messenger.Entities\bin\Debug\Messenger.Entities.pdb
+C:\Users\Denis\source\repos\Messenger\Messenger.Entities\obj\Debug\Messenger.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\Messenger\Messenger.Entities\obj\Debug\Messenger.Entities.dll
+C:\Users\Denis\source\repos\Messenger\Messenger.Entities\obj\Debug\Messenger.Entities.pdb
+C:\Users\Denis\source\repos\Messenger\Messenger.Entities\bin\Debug\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Denis\source\repos\Messenger\Messenger.Entities\bin\Debug\Microsoft.Extensions.Identity.Stores.xml
+C:\Users\Denis\source\repos\Messenger\Messenger.Entities\obj\Debug\Messenger.Entities.csproj.CopyComplete

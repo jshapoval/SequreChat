@@ -1,0 +1,43 @@
+﻿<Window x:Class="MessengerWinClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MessengerWinClient"
+        xmlns:ctrl="clr-namespace:MessengerWinClient.Controls"
+        Loaded="Window_Loaded"
+        mc:Ignorable="d"
+        Title="Messenger" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="60px"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="280px"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition Width="140px"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <ScrollViewer Grid.Row="0" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="2" Background="AntiqueWhite" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled" ScrollChanged="ScrollViewer_OnScrollChanged">
+            <StackPanel x:Name="MessagesStackPanel" Margin="0,10" IsEnabled="False"/>
+        </ScrollViewer>
+
+        <ListView x:Name="DialogListView"  
+                  HorizontalContentAlignment="Stretch" 
+                  SelectionChanged="DialogListView_SelectionChanged" 
+                  IsEnabled="False"
+                  Grid.Row="0" Grid.Column="0" Grid.RowSpan="2" 
+                  ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+                  ScrollViewer.VerticalScrollBarVisibility="Auto"
+                  />
+
+        <ScrollViewer Grid.Row="2" Grid.Column="1" VerticalScrollBarVisibility="Auto">
+            <RichTextBox x:Name="MessageText" Background="White" Padding="5px" IsEnabled="False"/>
+        </ScrollViewer>
+
+        <Button x:Name="AddDialogButton" Grid.Row="2" Grid.Column="0" Content="Add Dialog" FontSize="16" Click="AddDialogButton_OnClick" Margin="-1,0,1,0" IsEnabled="False"/>
+        <Button x:Name="SendButton" Grid.Row="2" Grid.Column="2" Content="Send" FontSize="16" Click="SendButton_OnClick"  IsEnabled="False"/>
+    </Grid>
+</Window>

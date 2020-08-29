@@ -1,0 +1,11 @@
+C:\Users\Denis\source\repos\Messenger\Messenger.DAL\bin\Debug\netcoreapp2.1\Messenger.DAL.deps.json
+C:\Users\Denis\source\repos\Messenger\Messenger.DAL\bin\Debug\netcoreapp2.1\Messenger.DAL.dll
+C:\Users\Denis\source\repos\Messenger\Messenger.DAL\bin\Debug\netcoreapp2.1\Messenger.DAL.pdb
+C:\Users\Denis\source\repos\Messenger\Messenger.DAL\obj\Debug\netcoreapp2.1\Messenger.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\Messenger\Messenger.DAL\obj\Debug\netcoreapp2.1\Messenger.DAL.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\Messenger\Messenger.DAL\obj\Debug\netcoreapp2.1\Messenger.DAL.AssemblyInfo.cs
+C:\Users\Denis\source\repos\Messenger\Messenger.DAL\obj\Debug\netcoreapp2.1\Messenger.DAL.dll
+C:\Users\Denis\source\repos\Messenger\Messenger.DAL\obj\Debug\netcoreapp2.1\Messenger.DAL.pdb
+C:\Users\Denis\source\repos\Messenger\Messenger.DAL\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Denis\source\repos\Messenger\Messenger.DAL\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Stores.xml
+C:\Users\Denis\source\repos\Messenger\Messenger.DAL\obj\Debug\netcoreapp2.1\Messenger.DAL.csproj.CopyComplete

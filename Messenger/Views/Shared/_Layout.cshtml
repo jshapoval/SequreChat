@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/lib/twitter-bootstrap/css/bootstrap.css" />
+    <link rel="stylesheet" href="~/css/Site.css"/>
+    @RenderSection("styles", false)
+    <script src="~/lib/jquery/jquery.js"></script>
+    <script src="~/lib/jquery-validate/jquery.validate.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+    <script src="~/lib/twitter-bootstrap/js/bootstrap.js"></script>
+</head>
+<body>
+
+    <div class="container myShadow">
+        <div id="MenuBlock">
+            @if (!User.Identity.IsAuthenticated)
+            {
+                <div class="text-right">
+                    @Html.ActionLink("Register", "Register", "Account", null, new {@class = "MenuButton"})
+                </div>
+            }
+        </div>
+
+        <div id="ContentBlock" class="Scrollable">
+            @RenderBody()
+        </div>
+    </div>
+
+</body>
+</html>

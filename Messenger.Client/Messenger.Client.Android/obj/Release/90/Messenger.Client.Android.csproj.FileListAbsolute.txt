@@ -1,0 +1,4 @@
+D:\4 КУРС\1_6\Messenger\Messenger.Client\Messenger.Client.Android\obj\Release\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+D:\4 КУРС\1_6\Messenger\Messenger.Client\Messenger.Client.Android\obj\Release\90\Messenger.Client.Android.csprojAssemblyReference.cache
+D:\4 КУРС\1_6\Messenger\Messenger.Client\Messenger.Client.Android\obj\Release\90\libraryimports.cache.stamp
+D:\4 КУРС\1_6\Messenger\Messenger.Client\Messenger.Client.Android\obj\Release\90\res.flag

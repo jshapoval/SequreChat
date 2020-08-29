@@ -1,0 +1,48 @@
+﻿#LoginButton, #RegisterButton {
+    width: auto;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+}
+
+#ContentBlock {
+    display: flex;
+    align-items: center;
+    overflow-x:hidden;
+}
+
+.Account {
+    flex: 1;
+}
+
+@media (min-width: 768px) {
+     label{
+        text-align: right !important;
+    }     
+}
+
+@media (max-width: 767px) {
+    
+    .Account{
+        text-align: center !important;
+    }
+
+    #avatar{
+        text-align: center !important;
+    }
+
+    input[type='file']{
+        display:inline-block;
+    }
+}
+
+.validation-summary-errors
+{
+    text-align:center;
+    margin-bottom:40px;
+}
+
+.validation-summary-errors li{
+    display:block;
+}

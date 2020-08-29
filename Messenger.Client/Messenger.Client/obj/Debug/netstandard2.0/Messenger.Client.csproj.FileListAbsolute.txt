@@ -1,0 +1,15 @@
+C:\Users\Denis\source\repos\Messenger\Messenger.Client\Messenger.Client\bin\Debug\netstandard2.0\Messenger.Client.deps.json
+C:\Users\Denis\source\repos\Messenger\Messenger.Client\Messenger.Client\bin\Debug\netstandard2.0\Messenger.Client.dll
+C:\Users\Denis\source\repos\Messenger\Messenger.Client\Messenger.Client\bin\Debug\netstandard2.0\Messenger.Client.pdb
+C:\Users\Denis\source\repos\Messenger\Messenger.Client\Messenger.Client\bin\Debug\netstandard2.0\Messenger.Common.dll
+C:\Users\Denis\source\repos\Messenger\Messenger.Client\Messenger.Client\bin\Debug\netstandard2.0\Messenger.Common.pdb
+C:\Users\Denis\source\repos\Messenger\Messenger.Client\Messenger.Client\obj\Debug\netstandard2.0\Messenger.Client.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\Messenger\Messenger.Client\Messenger.Client\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Denis\source\repos\Messenger\Messenger.Client\Messenger.Client\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Denis\source\repos\Messenger\Messenger.Client\Messenger.Client\obj\Debug\netstandard2.0\Messenger.Client.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\Messenger\Messenger.Client\Messenger.Client\obj\Debug\netstandard2.0\Messenger.Client.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\Messenger\Messenger.Client\Messenger.Client\obj\Debug\netstandard2.0\Messenger.Client.AssemblyInfo.cs
+C:\Users\Denis\source\repos\Messenger\Messenger.Client\Messenger.Client\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Denis\source\repos\Messenger\Messenger.Client\Messenger.Client\obj\Debug\netstandard2.0\Messenger.Client.csproj.CopyComplete
+C:\Users\Denis\source\repos\Messenger\Messenger.Client\Messenger.Client\obj\Debug\netstandard2.0\Messenger.Client.dll
+C:\Users\Denis\source\repos\Messenger\Messenger.Client\Messenger.Client\obj\Debug\netstandard2.0\Messenger.Client.pdb

@@ -1,0 +1,18 @@
+D:\4 КУРС\1_6\Messenger\Messenger.Entities\bin\Release\Messenger.Common.dll
+D:\4 КУРС\1_6\Messenger\Messenger.Entities\bin\Release\Messenger.Common.pdb
+D:\4 КУРС\1_6\Messenger\Messenger.Entities\bin\Release\Newtonsoft.Json.dll
+D:\4 КУРС\1_6\Messenger\Messenger.Entities\bin\Release\Newtonsoft.Json.xml
+D:\4 КУРС\1_6\Messenger\Messenger.Entities\obj\Release\Messenger.Common.csprojAssemblyReference.cache
+D:\4 КУРС\1_6\Messenger\Messenger.Entities\obj\Release\Messenger.Common.csproj.CoreCompileInputs.cache
+D:\4 КУРС\1_6\Messenger\Messenger.Entities\obj\Release\Messenger.Common.csproj.CopyComplete
+D:\4 КУРС\1_6\Messenger\Messenger.Entities\obj\Release\Messenger.Common.dll
+D:\4 КУРС\1_6\Messenger\Messenger.Entities\obj\Release\Messenger.Common.pdb
+C:\Users\Professional\source\repos\Messenger\Messenger.Entities\bin\Release\Messenger.Common.dll
+C:\Users\Professional\source\repos\Messenger\Messenger.Entities\bin\Release\Messenger.Common.pdb
+C:\Users\Professional\source\repos\Messenger\Messenger.Entities\bin\Release\Newtonsoft.Json.dll
+C:\Users\Professional\source\repos\Messenger\Messenger.Entities\bin\Release\Newtonsoft.Json.xml
+C:\Users\Professional\source\repos\Messenger\Messenger.Entities\obj\Release\Messenger.Common.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\Messenger\Messenger.Entities\obj\Release\Messenger.Common.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\Messenger\Messenger.Entities\obj\Release\Messenger.Common.csproj.CopyComplete
+C:\Users\Professional\source\repos\Messenger\Messenger.Entities\obj\Release\Messenger.Common.dll
+C:\Users\Professional\source\repos\Messenger\Messenger.Entities\obj\Release\Messenger.Common.pdb
